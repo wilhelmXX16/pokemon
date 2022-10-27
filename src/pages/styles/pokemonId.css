@@ -1,0 +1,165 @@
+/* .card__main-poke{
+    margin-top: 40px;
+} */
+.main{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.card__main-poke{
+    box-shadow: -1px 2px 10px #0006;
+    padding-top: 150px;
+    background-color: #3b3c4e;
+}
+.card__head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    height: 150px;
+}
+.head__img{
+    max-width: 250px;
+}
+
+.types__abilities{
+    display: flex;
+    gap: 3em;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 90px;
+}
+.card__title{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.card__itemT{
+    box-shadow: -1px 2px 10px #0004;
+    padding: 3px 15px;
+    margin-bottom: 10px;
+}
+.colobg-normal, .colobg-unknown {
+    background-color: #bababa;
+    color: white;
+    font-weight: 500;
+}
+.colobg-fighting {
+    background-color: #96402A;
+    color: white;
+    font-weight: 500;
+}
+.colobg-flying {
+    background-color: #BC6B7C;
+    color: white;
+    font-weight: 500;
+}
+.colobg-poison {
+    background-color: #A564E3;
+    color: white;
+    font-weight: 500;
+}
+.colobg-ground {
+    background-color: #895C1A;
+    color: white;
+    font-weight: 500;
+}
+.colobg-rock {
+    background-color: #8D8D94;
+    color: white;
+    font-weight: 500;
+}
+.colobg-bug {
+    background-color: #3BB039;
+    color: white;
+    font-weight: 500;
+}
+.colobg-ghost {
+    background-color: #454AA8;
+    color: white;
+    font-weight: 500;
+}
+.colobg-steel {
+    background-color: #728881;
+    color: white;
+    font-weight: 500;
+}
+.colobg-fire {
+    background-color: #E35825;
+    color: white;
+    font-weight: 500;
+}
+.colobg-water {
+    background-color: #1479FB;
+    color: white;
+    font-weight: 500;
+}
+.colobg-grass {
+    background-color: #7EC6C5;
+    color: white;
+    font-weight: 500;
+}
+.colobg-electric {
+    background-color: rgba(252,224,70,1);
+    font-weight: 500;
+    color: white;
+}
+.colobg-phychic {
+    background-color: #C23867;
+    color: white;
+    font-weight: 500;
+}
+.colobg-ice {
+    background-color: #64CBF5;
+    color: white;
+    font-weight: 500;
+}
+.colobg-dragon {
+    background-color: #56A4AE;
+    color: white;
+    font-weight: 500;
+}
+.colobg-dark, .colobg-shadow {
+    background-color: #0D1211;
+    color: white;
+    font-weight: 500;
+}
+.card__itemA{
+    box-shadow: -1px 2px 10px #0004;
+    padding: 3px 15px;
+    margin-bottom: 10px;
+}
+.card__stat-poke{
+    margin-top: 30px;
+    padding: 20px;
+}
+.card__title-poke{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card__moves{
+    background-color: #3b3c4e;
+    box-shadow: -1px 2px 10px #0004;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.moves{
+    padding: 5px 5px;
+    border-radius: 8px;
+    box-shadow: -1px 2px 10px #0004;
+    background-color: #0004;
+}
+
+
